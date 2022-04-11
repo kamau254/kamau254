@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamau254
 - 👀 I’m interested in Cyber Security, Cloud Computing, Networking and Python
-- 🌱 BSc Computer Science at Kibabii University
+- 🌱 BSc Computer Science
 - 💞️ I’m looking to collaborate on areas that I have interests on
 - 📫 How to reach me TWITTER @iamkamau7, LinkedIn Eliud Mwangi
 
